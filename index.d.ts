@@ -19,6 +19,7 @@ interface TimepickerOptions {
     showSeconds?: boolean;
     showInputs?: boolean;
     showMeridian?: boolean;
+    twoDigitsHour?: boolean;
     template?: string|boolean;
     appendWidgetTo?: string;
     maxHours?: number;
