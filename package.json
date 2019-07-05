@@ -1,5 +1,5 @@
 {
-  "name": "@types/bootstrap-timepicker-type",
+  "name": "@types/bootstrap.timepicker",
   "description": "Timepicker widget for Twitter Bootstrap 2.* TYPES",
   "version": "0.2.6",
   "homepage": "http://github.com/igunultas/bootstrap-timepicker-type",
